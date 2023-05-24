@@ -1,13 +1,7 @@
-# Punto 3 Tp de React para RollingCode
+# Punto 4 Tp de React para RollingCode
 
-Crear una aplicación web con un componente que muestre en pantalla el mensaje
-“Hello World”.
-Modificar el componente anterior y enviar mediante props el valor “My friend” de
-manera que el mensaje quede de la siguiente forma:
-Hello my friend!
-Modificar el programa anterior agregando al componente un state con la clave msj:
-“(from changed state)”, además agregar un botón al presionar este botón (onClick),
-el state de la clave msj se debe mostrar por pantalla de la siguiente manera: hello my friend (from changed state)!
+Crear una aplicación web que muestre una lista de tareas, al ingresar una tarea
+en el input y presionar enter, esta tarea se debe mostrar en una lista
 
 ## Pasos para correr la app
 
